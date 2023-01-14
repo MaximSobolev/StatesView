@@ -1,0 +1,32 @@
+ru.netology.statesview.app-lifecycle-viewmodel-2.5.1-0 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\00ac023e6762a5185c1d46ef2ea07672\transformed\lifecycle-viewmodel-2.5.1\res
+ru.netology.statesview.app-lifecycle-runtime-2.5.1-1 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\016df34adae8355f34217a81682d9925\transformed\lifecycle-runtime-2.5.1\res
+ru.netology.statesview.app-coordinatorlayout-1.1.0-2 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\01f2710a10aabf216d53a7556bd8fa81\transformed\coordinatorlayout-1.1.0\res
+ru.netology.statesview.app-lifecycle-process-2.4.1-3 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\14536dd523b7802d8e660cbb1ac04950\transformed\lifecycle-process-2.4.1\res
+ru.netology.statesview.app-emoji2-1.2.0-4 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\14a02d0dad6280dc18f0868550d488ff\transformed\emoji2-1.2.0\res
+ru.netology.statesview.app-savedstate-1.2.0-5 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\200b35dc1814b9409d1465161d55b0da\transformed\savedstate-1.2.0\res
+ru.netology.statesview.app-fragment-1.3.6-6 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\247df9fc991ac43e99ec8e6d670b8a9c\transformed\fragment-1.3.6\res
+ru.netology.statesview.app-recyclerview-1.1.0-7 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\24cd0f32b7298e34f227aa9b3b36abd9\transformed\recyclerview-1.1.0\res
+ru.netology.statesview.app-material-1.7.0-8 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\43067a47126f7877dc658edac53a7aa8\transformed\material-1.7.0\res
+ru.netology.statesview.app-constraintlayout-2.1.4-9 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\440f287b33ecfba8689eb9d969a1aee5\transformed\constraintlayout-2.1.4\res
+ru.netology.statesview.app-activity-1.5.1-10 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\5dbf26f731b4842ffa5ce0af5f9aeba6\transformed\activity-1.5.1\res
+ru.netology.statesview.app-core-1.9.0-11 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\6296d0e138f3cb499238b19ec7171381\transformed\core-1.9.0\res
+ru.netology.statesview.app-lifecycle-livedata-core-2.5.1-12 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\72ab5037a829ee8883beb08bda295fd3\transformed\lifecycle-livedata-core-2.5.1\res
+ru.netology.statesview.app-lifecycle-viewmodel-savedstate-2.5.1-13 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\737a4d2b0c496351510dd3dcde52c61c\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+ru.netology.statesview.app-cardview-1.0.0-14 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\76a1f3c171ecf296d2c3c18e64256fde\transformed\cardview-1.0.0\res
+ru.netology.statesview.app-viewpager2-1.0.0-15 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\8d5c6fd8f288f9fb94d6e7dc647ecda6\transformed\viewpager2-1.0.0\res
+ru.netology.statesview.app-appcompat-1.5.1-16 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\99209522a6cfdde792d9a367616169df\transformed\appcompat-1.5.1\res
+ru.netology.statesview.app-drawerlayout-1.1.1-17 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\9997b67fd4437222d9deb65e199999af\transformed\drawerlayout-1.1.1\res
+ru.netology.statesview.app-emoji2-views-helper-1.2.0-18 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\9f6d2b32f61557f23302923c2e686707\transformed\emoji2-views-helper-1.2.0\res
+ru.netology.statesview.app-transition-1.2.0-19 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\ad86e47b58f54122fd3e8a119d52107b\transformed\transition-1.2.0\res
+ru.netology.statesview.app-startup-runtime-1.1.1-20 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\ae82e5faf4e7320ecd236e8cab923f59\transformed\startup-runtime-1.1.1\res
+ru.netology.statesview.app-core-ktx-1.9.0-21 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\bad20a7bbee2bf66e9d2f3fd27cd62de\transformed\core-ktx-1.9.0\res
+ru.netology.statesview.app-appcompat-resources-1.5.1-22 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\d56f6a31fc0005db27362766683e3588\transformed\appcompat-resources-1.5.1\res
+ru.netology.statesview.app-annotation-experimental-1.3.0-23 C:\Users\Maxim Sobolev\.gradle\caches\transforms-3\f464422527796923dc64c8818d7f71f7\transformed\annotation-experimental-1.3.0\res
+ru.netology.statesview.app-pngs-24 E:\Projects\Android\StatesView\app\build\generated\res\pngs\release
+ru.netology.statesview.app-resValues-25 E:\Projects\Android\StatesView\app\build\generated\res\resValues\release
+ru.netology.statesview.app-rs-26 E:\Projects\Android\StatesView\app\build\generated\res\rs\release
+ru.netology.statesview.app-packageReleaseResources-27 E:\Projects\Android\StatesView\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+ru.netology.statesview.app-packageReleaseResources-28 E:\Projects\Android\StatesView\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+ru.netology.statesview.app-merged_res-29 E:\Projects\Android\StatesView\app\build\intermediates\merged_res\release
+ru.netology.statesview.app-main-30 E:\Projects\Android\StatesView\app\src\main\res
+ru.netology.statesview.app-release-31 E:\Projects\Android\StatesView\app\src\release\res
